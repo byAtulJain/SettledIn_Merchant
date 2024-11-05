@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "856343140100",
+    "project_id": "settledin-a9928",
+    "storage_bucket": "settledin-a9928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856343140100:android:0ff94a745319f6079d2251",
+        "android_client_info": {
+          "package_name": "com.example.setteldin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856343140100-2g4qhme3kffqphp4fssh0dhug4lofme8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.setteldin",
+            "certificate_hash": "f9b9fb602bb4f5a61de3e731c8056f4c02bd9cee"
+          }
+        },
+        {
+          "client_id": "856343140100-nquamm3vq633fkhkh9b96ttob85as6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonI8bv7jVNwipFLXWt3xV4ruqaqn_Bso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856343140100-nquamm3vq633fkhkh9b96ttob85as6u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856343140100-pj1df1kme2qvq294dhm7s1gkukts3pe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.setteldin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856343140100:android:c1cc62351116b38f9d2251",
+        "android_client_info": {
+          "package_name": "com.example.settledin_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856343140100-nquamm3vq633fkhkh9b96ttob85as6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonI8bv7jVNwipFLXWt3xV4ruqaqn_Bso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856343140100-nquamm3vq633fkhkh9b96ttob85as6u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "856343140100-pj1df1kme2qvq294dhm7s1gkukts3pe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.setteldin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
