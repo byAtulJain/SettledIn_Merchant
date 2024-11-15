@@ -1,16 +1,23 @@
-# settledin_merchant
+# SettledIn – “All You Need to Settle in Style”
+![logo-color](https://github.com/user-attachments/assets/b1dc3d4e-75b7-4f37-8149-ceb887a49260)
 
-A new Flutter project.
+## Project Synopsis:
+[Synopsis](https://github.com/user-attachments/files/17780250/Major.1.synopsis.pdf)
 
-## Getting Started
+## Project Report:
+[Report](https://github.com/user-attachments/files/17780156/Major.1.Report.pdf)
 
-This project is a starting point for a Flutter application.
+## Project Presentation:
+[Presenation](https://github.com/user-attachments/files/17780176/Major1.pptx)
 
-A few resources to get you started if this is your first Flutter project:
+## Project Research Paper:
+[Project Research Paper](https://github.com/user-attachments/files/17780193/MAJOR.research_paper.pdf)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Poster:
+[Project Poster](https://github.com/user-attachments/files/17780212/Major.1.poster.pdf)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Demo:
+[Demo](https://drive.google.com/file/d/1OGYWjoQ-1YHQGgy75eMvlRZCaQOUjwcU/view?usp=sharing)
+
+## LICENSE:
+SettledIn – “All You Need to Settle in Style” is [MIT-licensed](https://github.com/byAtulJain/Alertify/blob/master/LICENSE).
