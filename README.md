@@ -20,4 +20,4 @@
 [Demo](https://drive.google.com/file/d/1OGYWjoQ-1YHQGgy75eMvlRZCaQOUjwcU/view?usp=sharing)
 
 ## LICENSE:
-SettledIn – “All You Need to Settle in Style” is [MIT-licensed](https://github.com/byAtulJain/Alertify/blob/master/LICENSE).
+SettledIn – “All You Need to Settle in Style” is [MIT-licensed](https://github.com/byAtulJain/SettledIn_Merchant/blob/master/LICENSE).
