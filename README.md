@@ -1,5 +1,6 @@
 # SettledIn – “All You Need to Settle in Style”
-![logo-color](https://github.com/user-attachments/assets/b1dc3d4e-75b7-4f37-8149-ceb887a49260)
+![logo-color](https://github.com/user-attachments/assets/805f2009-d81e-4767-aef8-0f797356982a)
+
 
 ## Project Synopsis:
 [Synopsis](https://github.com/user-attachments/files/17780250/Major.1.synopsis.pdf)
